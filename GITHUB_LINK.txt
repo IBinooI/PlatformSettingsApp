@@ -3,3 +3,7 @@ Student Name: Paul Rubio
 Student ID: N01429146
 Lab: CPAN 213 - Lab 5
 Date: October 8, 2025
+- Added platform-specific button components (.ios.js and .android.js)
+- Added a platform-aware user interface to the SettingsScreen
+- Added platform utilities and updated App.js
+- Resolved styling problems and tested on iOS and Android
