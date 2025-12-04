@@ -5,5 +5,5 @@ Lab: CPAN 213 - Lab 5
 Date: October 8, 2025
 - Added platform-specific button components
 - Added a platform-aware user interface to the SettingsScreen
-- Added platform utilities and updated App.js
-- Resolved styling problems and tested on iOS and Android
+- Added platform utilities and updated App.tsx
+- Resolved styling problems and tested on iOS 
